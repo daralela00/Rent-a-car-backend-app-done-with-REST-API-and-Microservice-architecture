@@ -37,7 +37,9 @@ Features:
   - API gateway
 
 <img width="851" height="583" alt="Screenshot 2026-03-26 162302" src="https://github.com/user-attachments/assets/a22e2ff6-f9dc-44fb-b235-2272092149ab" />
+<img width="1919" height="1032" alt="Screenshot 2026-03-26 165243" src="https://github.com/user-attachments/assets/4c2a0585-ff96-4fc9-9e77-1ef0b429ec82" />
 
+<img width="1919" height="1031" alt="Screenshot 2026-03-26 165226" src="https://github.com/user-attachments/assets/d38487dd-6ac2-45ca-b95c-dcdee55a7cbb" />
 
 <img width="1904" height="740" alt="Screenshot 2026-03-26 164025" src="https://github.com/user-attachments/assets/4f88df65-6add-40e1-86f4-18883ad5a171" />
 <img width="1627" height="825" alt="Screenshot 2026-03-26 164432" src="https://github.com/user-attachments/assets/9cc69263-393d-4754-9c33-0e3d2ae0a623" />
