@@ -9,6 +9,13 @@ It presents aplication used for rent a car service.
 
 It's done in Java with Hibernate, database in done in SQL.
 
+All requests are processed with REST using REST controllers.
+
+All components(services) in project are indepedent using microservice architecture.
+
+All services are run with Docker.
+
+Inside projet is text file with links to all services on Docker.
 
 
 Features:
@@ -22,3 +29,5 @@ Features:
   - Docker
   - REST API
   - Microservice architecture
+  - Naming service (Eureka)
+  - API gateway
