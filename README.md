@@ -13,6 +13,8 @@ All requests are processed with REST using REST controllers.
 
 Project has all validations and Exception handlers needed.
 
+Services have CRUD and more complicated requests processed.
+
 All components(services) in project are indepedent using microservice architecture.
 
 All services are run with Docker.
