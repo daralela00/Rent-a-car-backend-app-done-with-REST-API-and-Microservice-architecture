@@ -11,6 +11,8 @@ It's done in Java with Hibernate, database in done in SQL.
 
 All requests are processed with REST using REST controllers.
 
+Project has all validations and Exception handlers needed.
+
 All components(services) in project are indepedent using microservice architecture.
 
 All services are run with Docker.
