@@ -32,11 +32,11 @@ Features:
   - Naming service (Eureka)
   - API gateway
 
+<img width="851" height="583" alt="Screenshot 2026-03-26 162302" src="https://github.com/user-attachments/assets/a22e2ff6-f9dc-44fb-b235-2272092149ab" />
 
-<img width="851" height="583" alt="Screenshot 2026-03-26 162302" src="https://github.com/user-attachments/assets/63683b9d-ca8b-469e-9d11-76524942eb28" />
-<img width="1594" height="814" alt="Screenshot 2026-03-26 164238" src="https://github.com/user-attachments/assets/9cd21398-43e2-4ae6-8f4f-1eb0dddd74f1" />
-<img width="1582" height="811" alt="Screenshot 2026-03-26 164154" src="https://github.com/user-attachments/assets/43d30ce8-e041-404c-8062-3b40f6be0b6c" />
-<img width="1627" height="825" alt="Screenshot 2026-03-26 164432" src="https://github.com/user-attachments/assets/829e336e-4ac8-4683-97ec-3dd0b7d2ffcf" />
 
-<img width="1904" height="740" alt="Screenshot 2026-03-26 164025" src="https://github.com/user-attachments/assets/b23e2b29-daee-47ee-a0e4-22d9d225e2f0" />
+<img width="1904" height="740" alt="Screenshot 2026-03-26 164025" src="https://github.com/user-attachments/assets/4f88df65-6add-40e1-86f4-18883ad5a171" />
+<img width="1627" height="825" alt="Screenshot 2026-03-26 164432" src="https://github.com/user-attachments/assets/9cc69263-393d-4754-9c33-0e3d2ae0a623" />
+<img width="1594" height="814" alt="Screenshot 2026-03-26 164238" src="https://github.com/user-attachments/assets/ec20b178-1e62-4c82-92fc-896345a8931c" />
+<img width="1582" height="811" alt="Screenshot 2026-03-26 164154" src="https://github.com/user-attachments/assets/28f1a8dc-f1d1-4270-bf22-d50d68fa41b3" />
 
